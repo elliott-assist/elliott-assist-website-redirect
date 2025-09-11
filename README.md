@@ -1,2 +1,2 @@
-# elliott-assist-website-redirect
+# Elliott Assist - Website redirect
 Redirect to the main website
